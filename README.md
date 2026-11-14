@@ -46,7 +46,6 @@ module tff (
     end
 endmodule
 
-```
 ## Testbench Program
 
   // gedit tb5.v
